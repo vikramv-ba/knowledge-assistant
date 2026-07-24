@@ -1,0 +1,21 @@
+{
+  "name": "squad-pulse",
+  "displayName": "Squad Pulse",
+  "version": "1.0.0",
+  "description": "Delivery Manager and Lead BA assistant for Cart and Checkout feature assessment, sizing, BPMN workflows, stakeholder mapping, and Monte Carlo forecasting.",
+  "author": {
+    "name": "Cart & Checkout"
+  },
+  "keywords": [
+    "delivery",
+    "business-analysis",
+    "bpmn",
+    "sizing",
+    "forecasting",
+    "cart",
+    "checkout"
+  ],
+  "rules": "./rules/",
+  "agents": "./agents/",
+  "commands": "./commands/"
+}
