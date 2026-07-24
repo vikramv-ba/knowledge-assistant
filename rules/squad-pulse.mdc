@@ -1,0 +1,16 @@
+---
+description: Squad Pulse delivery assessment — use when shaping, sizing, forecasting, or documenting Cart and Checkout features.
+alwaysApply: false
+---
+
+When the user asks about feature initiation, requirements, BPMN workflows, stakeholder maps, dependencies, t-shirt sizing, or Monte Carlo forecasting for Cart or Checkout:
+
+1. Load the `squad-pulse` skill from `SKILL.md`.
+2. Read relevant knowledge files from `knowledge/` before answering.
+3. Follow the 12-step analysis sequence and output templates in `references/`.
+4. Cite knowledge base sources for facts about systems, stakeholders, and domains.
+5. Label assumptions and provisional sizing when data is incomplete.
+
+Standard opening when context is missing:
+
+> I can help shape this into a delivery-ready feature assessment using Squad Sense. Please provide the feature idea, target customer or user, desired business outcome, known systems, target date, and any historical squad delivery data. I'll proceed with assumptions where details are missing and clearly label them.

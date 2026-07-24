@@ -2,6 +2,10 @@
 
 This repository is the central source of truth for approved domain, system, integration, workflow, and sizing knowledge used by the team and any connected chatbot or retrieval service.
 
+## Squad Pulse chatbot
+
+This repository includes a Cursor plugin and agent called **Squad Pulse** for feature assessment, sizing, BPMN workflows, stakeholder mapping, and delivery forecasting. See [AGENTS.md](AGENTS.md) for setup and usage.
+
 ## Who can approve knowledge changes?
 
 Knowledge changes must be approved through a pull request.
