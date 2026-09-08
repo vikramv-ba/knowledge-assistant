@@ -10,6 +10,7 @@ Approved knowledge lives under `knowledge/`. Only content merged to `main` is au
 | systems | system | `knowledge/systems/checkout-systems.md` | Cart assets, platforms, and complexity |
 | integrations | integration | `knowledge/integrations/system-touchpoints.md` | Cross-system touchpoints and interfaces |
 | workflows | workflow | `knowledge/workflows/checkout-flows.md` | Operational and customer workflows |
+| workflows | workflow | `knowledge/workflows/cc-checkout-to-sap-dfd.md` | Draft DFD: CC checkout, 3DS, order, sales file, SAP |
 | business-rules | business-rule | `knowledge/business-rules/checkout-business-rules.md` | Approved business rules |
 | stakeholders | stakeholder | `knowledge/stakeholders/checkout-stakeholders.md` | Squad, cross-platform, and business SMEs |
 | glossary | glossary | `knowledge/glossary/checkout glossary.md` | Canonical terminology and sizing bands |
